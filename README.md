@@ -13,8 +13,13 @@ It is not an application intended for serious real-world malicious use, and is e
 # [ACKNOWLEDGEMENTS] Many thanks to Brick Sigma, who originally uploaded the keylogger this is forked off of.
 
 I would also like to thank the contributors on the following Stack Overflow thread:
+
 https://stackoverflow.com/questions/43441883/how-can-i-make-a-file-hidden-on-windows
+
 which were instrumental in properly applying the OS package to this project.
+
 As well as GeeksForGeeks with their article:
+
 https://www.geeksforgeeks.org/python/os-module-python-examples/
+
 Which aided me with the OS module's incorporation as well.
